@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: xinput-recorder
-Version: 0.1.0
-Summary: Read-only, high-frequency XInput controller input recorder for research
-Requires-Python: >=3.10
-Provides-Extra: dev
-Requires-Dist: pytest>=8; extra == "dev"
-Provides-Extra: analysis
-Requires-Dist: pandas>=2; extra == "analysis"
