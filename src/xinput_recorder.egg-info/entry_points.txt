@@ -1,0 +1,3 @@
+[console_scripts]
+xinput-record = xinput_recorder.cli:record_main
+xinput-selftest = xinput_recorder.cli:selftest_main

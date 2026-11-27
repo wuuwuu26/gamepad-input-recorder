@@ -1,0 +1,6 @@
+
+[analysis]
+pandas>=2
+
+[dev]
+pytest>=8
